@@ -1,7 +1,5 @@
 # End-to-End Python EDA and Outlier Detection Report
 
-![Project Banner](porto_python.png)
-
 ## Business Problem and Context
 
 TokoKita required a programmatically scalable solution to clean transactional logs, evaluate product performance metrics, analyze value distributions, and detect transactional anomalies. Manual inspection and static reporting tools were insufficient for detecting subtle statistical outliers and evaluating distribution spreads across multiple sales dimensions.
